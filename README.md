@@ -6,4 +6,4 @@ The system shows the top five among the 521 target events.
 ```
 python realtime_YAMNET.py
 ```
-Enjoy.
+Have fun.
